@@ -1,1 +1,1 @@
-console.log('this is a change in script.js file with testt branch!')
+'hello from testt2'
